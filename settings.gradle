@@ -1,0 +1,8 @@
+rootProject.name = 'ws-test'
+
+include 'common'
+include 'request-initiator'
+include 'model0-processor'
+include 'asian-clique-processor'
+
+
